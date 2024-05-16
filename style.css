@@ -307,7 +307,7 @@ body {
 	margin-bottom: 20px;
 }
 
-.fa-twitter:hover {
+.fa-x-twitter:hover {
 	border-radius: 50%;
 	color: white;
 	background-color: #1da1f2;
@@ -319,7 +319,7 @@ body {
 	background-color: #3b5998;
 }
 
-.fa-google-plus:hover {
+.class="fa-brands fa-twitter":hover {
 	border-radius: 50%;
 	color: white;
 	background-color: #dd4b39;
